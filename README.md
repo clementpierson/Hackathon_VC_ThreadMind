@@ -1,1 +1,1 @@
-# Hackatlon_VC_ThreadMind
+# Hackathon_VC_ThreadMind
